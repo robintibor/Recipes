@@ -10,9 +10,9 @@ Results:
 
 |N_res_blocks_per_super_block|network|test acc|test loss|train loss|
 |----------------------------|--------|---|---|---|
-|5|normal|92.67%|0.309590|0.185623|
-|5|parallel stride|93.16%|0.298192|0.157280|
-|9|normal|92.17%|0.326476|0.206078|
-|9|parallel stride|92.99 %|0.285899|0.180039|
+|5|normal|92.78%|0.311401|0.179728|
+|5|parallel stride|93.37%|0.289688|0.162296|
+|9|normal|93.55%|0.291781|0.186632|
+|9|parallel stride|93.18%|0.275780|0.173760|
 
 
